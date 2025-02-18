@@ -5,8 +5,8 @@ Optimized and rebranded version of [PNGTuber Plus](https://github.com/kaiakairos
 1. Restructured the code
 2. Dynamic Texture Loading
 3. Stable UI
-  
-  
+4. Better Sprite Management
+5. Reusable Instances
   
 **Does it work with Mac/Linux?**    
 Windows only (for now)  
