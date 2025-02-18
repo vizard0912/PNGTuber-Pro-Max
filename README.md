@@ -1,11 +1,9 @@
 # PNGTuber-Pro-Max
 Optimized and rebranded version of [PNGTuber Plus](https://github.com/kaiakairos/PNGTuber-Plus) made ky [kaiakairos](https://github.com/kaiakairos).
 
-**Current Optimizations:**
-1. Dynamic Asset Loading
-2. Reduced Texture Memory Usage
-3. Optional Mipmap
-4. Multithreaded Audio Processing
+**Current Optimizations: v0.1**
+1. Restructured the code
+2. Dynamic Texture Loading
 
 **Credits:**  
 Original Developer: [kaiakairos](https://github.com/kaiakairos) [(PNGTuber Plus)](https://github.com/kaiakairos/PNGTuber-Plus)  
