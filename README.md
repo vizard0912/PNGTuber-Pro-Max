@@ -8,5 +8,5 @@ Optimized and rebranded version of [PNGTuber Plus](https://github.com/kaiakairos
 4. Multithreaded Audio Processing
 
 **Credits:**
-Original Developer: [kaiakairos](https://github.com/kaiakairos) [(PNGTuber Plus)](https://github.com/kaiakairos/PNGTuber-Plus)
+Original Developer: [kaiakairos](https://github.com/kaiakairos) [(PNGTuber Plus)](https://github.com/kaiakairos/PNGTuber-Plus)  
 Optimized & Rebranded by: [vizard](https://x.com/vizardo_) (PNGTuber Pro Max)
