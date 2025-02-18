@@ -4,6 +4,7 @@ Optimized and rebranded version of [PNGTuber Plus](https://github.com/kaiakairos
 **Current Optimizations: v0.1**
 1. Restructured the code
 2. Dynamic Texture Loading
+3. Stable UI
 
 **Does it work with Mac/Linux?**  
 Windows only (for now)
