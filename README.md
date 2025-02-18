@@ -7,6 +7,6 @@ Optimized and rebranded version of [PNGTuber Plus](https://github.com/kaiakairos
 3. Optional Mipmap
 4. Multithreaded Audio Processing
 
-**Credits:**
+**Credits:**  
 Original Developer: [kaiakairos](https://github.com/kaiakairos) [(PNGTuber Plus)](https://github.com/kaiakairos/PNGTuber-Plus)  
 Optimized & Rebranded by: [vizard](https://x.com/vizardo_) (PNGTuber Pro Max)
