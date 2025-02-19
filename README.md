@@ -18,7 +18,7 @@ You can still use old guides to set up your PNGTuber, as this update is purely f
 Windows only (for now)  
   
 **How is PNGTuber Pro Max different from other PNGTuber Plus alternatives?**    
-Currently it keeps the UI and functions of the original but more optimizated 
+Currently it keeps the UI and functions of the original but more optimized 
   
 **Can I report a bug or request a feature?**    
 Yes, feel free to send me a message on [twitter](https://x.com/vizardo_)  
